@@ -11,6 +11,10 @@ Refer to the following
 
 [ProtoPedia](https://protopedia.net/prototype/4237)
 
+# Author
+ 
+* Twitter : https://twitter.com/momog1965
+  
 # License
  
 "AtomS3_avatar_5WS_Insect_ESPNOW" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
